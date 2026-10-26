@@ -1,4 +1,4 @@
-# 🌍 3D Dünya Yer Çekimi İvmesi ($g$) Simülasyonu
+# 🌍 3D Dünya Yer Çekimi İvmesi (g) Simülasyonu
 
 Bu proje, Fizik I dersi ödevi kapsamında geliştirilmiş; Dünya üzerindeki konum (enlem) ve yüksekliğe (rakım) bağlı olarak yer çekimi ivmesindeki ($g$) değişimi interaktif olarak hesaplayan ve 3 boyutlu olarak görselleştiren bir web simülasyonudur.
 
