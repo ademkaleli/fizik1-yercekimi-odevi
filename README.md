@@ -1,0 +1,1 @@
+# fizik1-yercekimi-odevi
